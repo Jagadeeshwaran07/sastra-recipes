@@ -1,0 +1,31 @@
+*{
+    color : #e68771;
+}
+
+ul {
+    text-align: center;
+    color: #1d363c;
+}
+
+.Instructions{
+    text-align: center;
+    color: antiquewhite;
+    background-color: #1d363c;
+}
+
+#one,
+#two,
+#three,
+#four{
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+h3{
+    font-family: "Times New Roman", sans-serif;
+}
